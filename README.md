@@ -43,4 +43,4 @@ To replicate this project, you will need an AWS account and a YouTube API key.
 
 ## 📈 Dashboard Preview
 
-*![QuickSight Dashboard Preview](https://github.com/YourUsername/YourRepositoryName/blob/main/dashboard-preview.png?raw=true)*
+*![QuickSight Dashboard Preview](https://github.com/AryanParishwad/youtube-data-analysis-aws/blob/main/dashboard.png)*
