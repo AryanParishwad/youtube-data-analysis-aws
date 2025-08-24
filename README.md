@@ -43,4 +43,4 @@ To replicate this project, you will need an AWS account and a YouTube API key.
 
 ## 📈 Dashboard Preview
 
-*(Here, you can add screenshots of your final QuickSight dashboard)*
+*![QuickSight Dashboard Preview](https://github.com/YourUsername/YourRepositoryName/blob/main/dashboard-preview.png?raw=true)*
